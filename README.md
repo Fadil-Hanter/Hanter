@@ -1,5 +1,6 @@
 # Hanter
 Hack fb kawan 
+
 1 pkg update && upgrade
 
 2 pkg install git
